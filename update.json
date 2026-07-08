@@ -1,7 +1,0 @@
-{ 
-  "versi_terbaru": "2.0.0.2", 
-  "url_unduh": "https://github.com/salmanirlearn-wq/my-app-distribution/releases/download/2.0.0.2/Setup_SheetEngine_V2.0.0.2.exe", 
-  "sha256": "f168f1ecedb67b479d05e54a77367d5d48a520f564c8eea7f10b08257144a816", 
-  "wajib_update": false, 
-  "catatan_rilis": "Pembaruan sistem keamanan, penambahan metadata, dan stabilitas fitur analitik." 
-} 
