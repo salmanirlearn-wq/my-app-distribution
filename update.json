@@ -1,0 +1,8 @@
+﻿{
+    "versi_terbaru":  "2.0.0.2",
+    "tanggal_rilis":  "2026-07-09 11.33.25",
+    "url_unduh":  "https://github.com/salmanirlearn-wq/my-app-distribution/releases/download/2.0.0.2/Setup_Nexus_PDF_Pro_V2.0.0.2.exe",
+    "sha256":  "ef8e48b0827c2e51faa4e2e4ef98182748026b11a14250134b8c8413a0de93e7",
+    "wajib_update":  false,
+    "catatan_rilis":  "Pembaruan mesin PDF, keamanan sistem, dan stabilitas fitur ekstraksi."
+}
